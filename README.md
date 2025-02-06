@@ -2,7 +2,6 @@
 How to make template using html (ftl) . send email to with html template. 
 
 # Template using loop 
-
 ```
 <!DOCTYPE html>
 <html lang="en">
